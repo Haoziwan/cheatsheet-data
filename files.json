@@ -3,23 +3,23 @@
     "id": 1764142006229,
     "name": "5306",
     "createdAt": "2025-11-26T07:26:46.229Z",
-    "updatedAt": "2025-11-27T17:29:35.482Z",
+    "updatedAt": "2025-11-28T02:36:07.413Z",
     "toolbarSettings": {
       "columns": 5,
       "fontSize": 6.3,
-      "padding": 4,
-      "gap": 0.1,
-      "lineHeight": 0.82,
+      "padding": 3,
+      "gap": 1,
+      "lineHeight": 0.9,
       "orientation": "landscape",
       "theme": "classic",
-      "fontFamily": "helvetica"
+      "fontFamily": "inter"
     }
   },
   {
     "id": 1764147299497,
     "name": "example",
     "createdAt": "2025-11-26T08:54:59.497Z",
-    "updatedAt": "2025-11-27T17:29:34.148Z",
+    "updatedAt": "2025-11-28T02:13:17.797Z",
     "toolbarSettings": {
       "columns": 5,
       "fontSize": 8,
